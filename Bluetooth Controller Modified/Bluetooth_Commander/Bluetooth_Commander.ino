@@ -26,7 +26,7 @@ void loop() {
  int number2;
  
 
- number=digitalRead(button);
+ //number=digitalRead(button);
  //Serial.println(number);
 
  number2=digitalRead(button1);
